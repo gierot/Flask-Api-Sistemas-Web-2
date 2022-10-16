@@ -4,10 +4,15 @@
 
 # Rotas
 As rotas seguem um padrão
+
 GET https://localhost:5000/user/
+
 POST https://localhost:5000/user/create
+
 PUT https://localhost:5000/user/update/{id}
+
 DELETE https://localhost:5000/user/delete/{id}
+
 
 Temos a rota /user, /cursos e /comentarios
 
