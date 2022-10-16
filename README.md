@@ -1,6 +1,9 @@
 # Instalação
+
 `docker build -t flask-rest-api .`
+
 `docker run --name FlaskApi -d -p 5000:5000 flask-rest-api`
+
 
 # Rotas
 As rotas seguem um padrão
